@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6329389D2C8DD8A400AD41D2 /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6329389C2C8DD8A400AD41D2 /* Explosion.sks */; };
 		63CBC56A2C8B0B2500AD7C96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBC5692C8B0B2500AD7C96 /* AppDelegate.swift */; };
 		63CBC56C2C8B0B2500AD7C96 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 63CBC56B2C8B0B2500AD7C96 /* GameScene.sks */; };
 		63CBC5702C8B0B2500AD7C96 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CBC56F2C8B0B2500AD7C96 /* GameScene.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6329389C2C8DD8A400AD41D2 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
 		63CBC5662C8B0B2500AD7C96 /* Game1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Game1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63CBC5692C8B0B2500AD7C96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63CBC56B2C8B0B2500AD7C96 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				63CBC5692C8B0B2500AD7C96 /* AppDelegate.swift */,
 				63CBC56B2C8B0B2500AD7C96 /* GameScene.sks */,
 				63CBC56F2C8B0B2500AD7C96 /* GameScene.swift */,
+				6329389C2C8DD8A400AD41D2 /* Explosion.sks */,
 				63CBC58C2C8B22FF00AD7C96 /* EnemyNode.swift */,
 				63CBC5712C8B0B2500AD7C96 /* GameViewController.swift */,
 				63CBC5732C8B0B2500AD7C96 /* Main.storyboard */,
@@ -152,6 +155,7 @@
 				63CBC5852C8B1CB500AD7C96 /* waves.json in Resources */,
 				63CBC5752C8B0B2500AD7C96 /* Base in Resources */,
 				63CBC5812C8B136A00AD7C96 /* Starfield.sks in Resources */,
+				6329389D2C8DD8A400AD41D2 /* Explosion.sks in Resources */,
 				63CBC5772C8B0B2700AD7C96 /* Assets.xcassets in Resources */,
 				63CBC57A2C8B0B2700AD7C96 /* Base in Resources */,
 			);

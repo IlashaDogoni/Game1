@@ -25,7 +25,8 @@ class GameViewController: UIViewController {
             }
             
             view.ignoresSiblingOrder = true
-            
+            // don't know how it's gonna work, just copied from a tutorial 
+            view.preferredFramesPerSecond = 120
             view.showsFPS = true
             view.showsNodeCount = true
             
